@@ -1,5 +1,9 @@
 # Deploying a lambda function with Langchain for consuming a Bedrock Foundational Model
 
+## Use case: success stories validation (see diagram)
+
+![Diagram](images/Ref-Diagram.drawio.png)
+
 ## Assumptions
 * You have access and permissions to use Amazon Bedrock
 * Using python 3.10
