@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" modified="2023-08-02T06:19:42.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="v-Kn2bL8IO3_Z2-CWh_7" version="21.3.2" type="device">
+  <diagram name="Page-1" id="UM7dUVQ2E0w_JHMufoGZ">
+    <mxGraphModel dx="1232" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5tq1wbjBC2c7xSgrBeL-1" target="A5tq1wbjBC2c7xSgrBeL-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="320" />
+              <mxPoint x="500" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5tq1wbjBC2c7xSgrBeL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-1" value="Case Studiy Validator" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#000000;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5tq1wbjBC2c7xSgrBeL-2" target="A5tq1wbjBC2c7xSgrBeL-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="340" />
+              <mxPoint x="520" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-2" value="Amazon BedRock&lt;br&gt;Claude" style="sketch=0;outlineConnect=0;fontColor=#000000;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="70.9" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://blog.langchain.dev/content/images/size/w100/2023/01/parroticon.png;" vertex="1" parent="1">
+          <mxGeometry x="435" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5tq1wbjBC2c7xSgrBeL-8" target="A5tq1wbjBC2c7xSgrBeL-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="310" />
+              <mxPoint x="310" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-8" value="Remote client" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="190" y="284" width="66.41" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-10" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#000000;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="355" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-12" value="Case Study" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5tq1wbjBC2c7xSgrBeL-13" target="A5tq1wbjBC2c7xSgrBeL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-13" value="Prompt with &lt;br&gt;Succes Case &lt;br&gt;criteria" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-16" value="Python 10" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="389" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5tq1wbjBC2c7xSgrBeL-17" value="&lt;div&gt;The case study does not meet the following criteria:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Must be in production, not pilot or proof of concept stages.&lt;/div&gt;&lt;div&gt;- The case study mentions APIX was launched in November 2018 but does not explicitly state that it is in production. It refers to APIX as a &quot;sandbox environment&quot; which implies it may still be in pilot or proof of concept stage.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Must include a paragraph about the customer&#39;s business, industry, and name.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- While the case study mentions AFIN and provides some background, it does not specify the customer&#39;s business, industry, and name that is using the solution.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Must describe the outcome related to the initial challenge and provide specific metrics about the benefits.&lt;/div&gt;&lt;div&gt;- The case study mentions the intent and potential benefits of APIX but does not provide specific metrics to quantify the outcomes and benefits.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Must include a paragraph about the partner&#39;s business, industry, APN programs, tier level, and type.&lt;/div&gt;&lt;div&gt;- The case study does not include details about Virtusa, the partner that built the solution. It does not specify Virtusa&#39;s business, industry, APN program details, tier level, and partner type.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Must be less than 18 months old&lt;/div&gt;&lt;div&gt;- The case study mentions APIX was launched in November 2018, which is more than 18 months from the current date. So it does not meet this criterion.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10 Partners cannot use themselves or affiliate companies as references&lt;/div&gt;&lt;div&gt;- Since the case study is about a solution built by Virtusa, a partner, for their own customer AFIN, it does not meet this criterion. Partners cannot use themselves or affiliate companies as references.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;11 Customers cannot be used multiple times&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Without knowing if AFIN has been used as a reference for other case studies, it&#39;s difficult to determine if this criterion is met. More context around other case studies would be needed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12 PR statements cannot be used as public case studies&lt;/div&gt;&lt;div&gt;- Again, without more context around the source and intent of this case study, it&#39;s hard to determine if it qualifies as a PR statement rather than a public case study. More details would be needed to evaluate this.&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="790" height="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
