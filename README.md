@@ -1,6 +1,7 @@
-# Deploying a lambda function with Langchain for consuming a Bedrock Foundational Model
+# AWS Bedrock Tools - Basic Building blocks - Lambda function
+## Deploying a lambda function with Langchain for consuming a Bedrock Foundational Model
 
-## Use case: success stories validation (see diagram)
+### Use case: success stories validation (see diagram)
 
 ![Diagram](images/Ref-Diagram.drawio.png)
 
@@ -11,7 +12,7 @@
 * CDK is installed and configured
 
 
-# Lambda layer libraries
+## Lambda layer libraries
 
 inside your cdk project, create a ```lambda``` directory
 
