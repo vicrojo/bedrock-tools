@@ -1,0 +1,5 @@
+sdkbedrock/boto3-1.26.142-py3-none-any.whl
+sdkbedrock/botocore-1.29.142-py3-none-any.whl
+langchain
+requests
+numpy
